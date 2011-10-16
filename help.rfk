@@ -1,0 +1,20 @@
+This version written by 
+Samuel Williams (C) 2003 <ioquatix@oriontransfer.mine.nu>
+
+By the illustrious Leonard Richardson (C) 1997, 2000
+Written originally for the Nerth Pork robotfindskitten contest
+In this game, you are robot (#). Your job is to find kitten. This task
+is complicated by the existence of various things which are not kitten.
+Robot must touch items to determine if they are kitten or not. The game
+ends when robotfindskitten.
+
+To move, enter a sequence of
+ e - up
+ c - down
+ s - left
+ f - right
+and press return.
+
+eg.
+eessccff<cr><lf>
+would move the robot around in a circle back to the starting position.
